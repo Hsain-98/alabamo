@@ -8,6 +8,7 @@ Source code with implementation of ALABAMO protocol
 This protocol is an adaptation to RPL for balance loading in wireless sensor networks
 It was introduced in the paper below. Please cite it if you use this source code.
 
+```
 @inproceedings{oliveira2016alabamo,
   title={ALABAMO: A LoAd BAlancing MOdel for RPL},
   author={Oliveira, Tarcisio Bruno and Gomes, Pedro Henrique and Gomes, Danielo G and Krishnamachari, Bhaskar},
@@ -15,4 +16,6 @@ It was introduced in the paper below. Please cite it if you use this source code
   pages={644--657},
   year={2016}
 }
+```
+
 http://www.sbrc2016.ufba.br/downloads/SessoesTecnicas/152207.pdf
